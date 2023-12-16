@@ -9,7 +9,7 @@ return {
   { import = "astrocommunity.pack.vue" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.go" },
-  { import = "astrocommunity.pack.cpp" },
+  -- { import = "astrocommunity.pack.cpp" }, -- clang error
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.helm" },
   { import = "astrocommunity.pack.json" },
